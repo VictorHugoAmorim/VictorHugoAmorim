@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Hugo <img height="40" src="https://cdn3.emoji.gg/emojis/7858-charmanderboi.gif"></h1>
 <h3 align="center">A passionate Python developer and data analytics from Brazil</h3>
 
-- 🔭 I’m currently working at **OLXR Brasil**
-
-- 🌱 I’m currently learning **Python, Spark and R**
-
-- 👯 I’m looking to collaborate on **Data Analysiss**
-
-- 📫 How to reach me: **[in here](https://www.linkedin.com/in/victor-hugo-amorim-65bb3b214/)**
-
-- ⚡ What I like to do: **I like so much reading, soccer and play games**
+Every day is a new opportunity to learn something new. I follow this thought to develop my knowledge and overcome obstacles in life.
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
