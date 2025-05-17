@@ -33,7 +33,7 @@ Every day is a new opportunity to learn something new. I follow this thought to 
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/docker_alt_macos_bigsur_icon_190232.png" alt="docker" width="40" height="40"/> 
   </a>
   <a href="https://kubernetes.io/pt-br/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" alt="kubernetes" width="40" height="40"/> 
+    <img src="https://hermes.dio.me/articles/cover/d15641bf-9cee-493e-a5a4-f41ca0ffe7f7.png" alt="kubernetes" width="40" height="40"/> 
   </a>
   <a href="https://www.google.com/intl/pt-BR/sheets/about/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/800px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="sheets" width="30" height="40"/> 
